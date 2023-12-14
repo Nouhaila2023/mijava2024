@@ -25,6 +25,7 @@ public class ejemplo2 {
          */
 
         //Ejercicio1.a
+        double nom =0;
 
         int[] numero = new int[50];
 
