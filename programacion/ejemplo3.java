@@ -1,4 +1,4 @@
-package RepasoArrays;
+package programacion;
 
 import java.util.Arrays;
 
