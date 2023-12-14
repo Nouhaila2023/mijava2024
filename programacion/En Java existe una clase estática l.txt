@@ -1,0 +1,14 @@
+En Java existe una clase estática llamada Arrays que nos permite hacer varias
+cosas con arrays:
+a. Arrays.fill(array, valor): llena un array con un valor pasado como parámetro
+b. Arrays.sort(array): el array que se le pasa como parámetro queda ordenado
+c. Arrays.toString(array): pasa un array a String con sus elementos
+d. Arrays.copyOf(array): devuelve un array nuevo igual que el que se le pasa
+(1 punto) Realiza las siguientes tareas usando los métodos anteriores:
+a. Crear un array de 50 elementos de tipo int, declarar el array
+b. Rellena el array con el valor 100. Arrays.fill
+c. Pinta el vector con Arrays.toString
+d. Ordena el vector. Arrays.sort
+e. Pinta el vector con Arrays.toString
+f. Crea una copia del vector usando Arrays.copyOf.
+g. Pinta el vector copiado con Arrays.toString
