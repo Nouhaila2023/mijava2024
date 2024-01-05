@@ -1,4 +1,4 @@
-package EjerciciosDeCorso.estructurasDeControl;
+package Nouhaila_Openwebinars.EjerciciosDeCorso.estructurasDeControl;
 /*
 ● Primer ejercicio sobre bucles.
 ● Escribe un programa en Java que acepte por teclado un número 

@@ -1,4 +1,4 @@
-package EjerciciosDeCorso.estructurasDeControl;
+package Nouhaila_Openwebinars.EjerciciosDeCorso.estructurasDeControl;
 /*
  * 15. Aunque no lo parezca, siguen existiendo locutorios para realizar llamadas telefónicas internacionales. 
  * El coste cuando se realiza una llamada es el siguiente:
