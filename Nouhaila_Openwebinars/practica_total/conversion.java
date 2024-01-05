@@ -1,4 +1,4 @@
-package practica_total;
+package Nouhaila_Openwebinars.practica_total;
 public class conversion{
 
     public static void main(String[] args) {

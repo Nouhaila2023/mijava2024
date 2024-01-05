@@ -1,4 +1,4 @@
-package practica_total;
+package Nouhaila_Openwebinars.practica_total;
 /*
  * Las constantes en Java son variables que mantienen un valor inmutable a lo largo de toda la vida del programa 1. 
  * Las constantes se definen mediante el modificador final y su valor se establece en el momento en que se declara y 

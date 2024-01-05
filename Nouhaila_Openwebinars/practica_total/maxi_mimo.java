@@ -1,4 +1,4 @@
-package practica_total;
+package Nouhaila_Openwebinars.practica_total;
 import java.util.Scanner;
 public class maxi_mimo {
     public static void main(String[] args) {
