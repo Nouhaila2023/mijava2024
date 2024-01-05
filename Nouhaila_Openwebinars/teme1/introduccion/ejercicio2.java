@@ -1,4 +1,4 @@
-package teme1.introduccion;
+package Nouhaila_Openwebinars.teme1.introduccion;
 /*Cuáles son los valores de a y b después de ejecutar las siguientes instrucciones?
  */
 public class ejercicio2 {

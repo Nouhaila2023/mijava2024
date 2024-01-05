@@ -1,4 +1,4 @@
-package variableYoperadores;
+package Nouhaila_Openwebinars.variableYoperadores;
 
 import java.util.Scanner;
 
