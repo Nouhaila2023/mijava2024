@@ -14,7 +14,7 @@ No se pueden usar los métodos replace ni replaceAll de String ni StringBuffer.
 Para sacar más nota se recomienda usar una estructura mutable (StringBuffer o StringBuilder) para hacer la sustitución.
  */
 public class ejercicir1 {
-    public static String sustituirVocales(String cadena, char frace) {
+    public static String sustituirVocales(String cadena, char cambiar) {
         //hola prof no se como etulizar el StringBuilder pero lo se que es de cambiar el letras ?? la for y if me lo hago yo gracias
         cadena = "Mi amiga Ana es prima de Eva y de Irene";
         StringBuilder sc = new StringBuilder();
