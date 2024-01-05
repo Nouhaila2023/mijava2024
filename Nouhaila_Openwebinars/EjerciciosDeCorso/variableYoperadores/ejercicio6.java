@@ -1,4 +1,4 @@
-package EjerciciosDeCorso.variableYoperadores;
+package Nouhaila_Openwebinars.EjerciciosDeCorso.variableYoperadores;
 
 import java.util.Scanner;
 
