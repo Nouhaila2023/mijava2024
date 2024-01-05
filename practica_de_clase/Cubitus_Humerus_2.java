@@ -1,3 +1,4 @@
+package practica_de_clase;
 import java.util.Scanner;
 
 public class Cubitus_Humerus_2 {
@@ -6,10 +7,12 @@ public class Cubitus_Humerus_2 {
         try {
             Scanner sc = new Scanner(System.in);
             System.out.println("numero de turnos");
-            turno = Integer.parseInt(sc.nextInt());
+            turno = Integer.parseInt(sc.nextLine());
 
             for(int i = 0; i> turno ;i++){
-                for(int i =3 ; i<)
+               /*  for(int i =3 ; i<){
+
+                }*/
             }
 
 

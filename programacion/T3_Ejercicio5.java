@@ -1,4 +1,4 @@
-package Tema3Prog.EjerciciosUT3;
+package programacion;
 
 import java.util.Scanner;
 
