@@ -1,4 +1,7 @@
 package Nouhaila_Openwebinars.EjerciciosDeCorso.estructurasDeControl;
+
+import java.util.Scanner;
+
 /*
  * 15. Aunque no lo parezca, siguen existiendo locutorios para realizar llamadas telefónicas internacionales. 
  * El coste cuando se realiza una llamada es el siguiente:
@@ -26,13 +29,90 @@ el algoritmo de cálculo del precio final de una llamada
 public class ejercicio15 {
     public static void main(String[] args) {
 
-    
+        /*Scanner scanner = new Scanner(System.in);
+
+        System.out.print("هل التقط المستخدم الآخر الهاتف؟ (نعم/لا): ");
+        String isAnswered = scanner.nextLine().toLowerCase();
+
+        System.out.print("المدة بالدقائق: ");
+        int duration = scanner.nextInt();
+
+        System.out.print("هل المكالمة في وقت الليل؟ (نعم/لا): ");
+        String isNight = scanner.next().toLowerCase();
+
+        System.out.print("هل المكالمة يوم الأحد؟ (نعم/لا): ");
+        String isSunday = scanner.next().toLowerCase();
+
+        double baseCost = isAnswered.equals("نعم") ? 0.50 : 0;
+        double costPerMinute;
+
+        if (duration <= 3) {
+            costPerMinute = 0.75;
+        } else if (duration <= 7) {
+            costPerMinute = 0.65;
+        } else {
+            costPerMinute = 0.50;
+        }
+
+        if (isNight.equals("نعم")) {
+            costPerMinute *= 1.05; // زيادة 5%
+        }
+
+        if (isSunday.equals("نعم")) {
+            costPerMinute *= 1.03; // زيادة 3%
+        }
+
+        double totalCost = baseCost + (duration * costPerMinute);
+
+        System.out.println("التكلفة الإجمالية للمكالمة هي: " + totalCost + " يورو.");
+
+        scanner.close();*/
+
+
+        Scanner sc = new Scanner(System.in);
+
+        String domingo;
+        double minuto;
+        String noche;
+        double total;
+        String coge_tele;
+
+        System.out.print("El osuario a coge el telefono (si/no): ");
+        coge_tele = sc.nextLine();
+
+        System.out.print("cuantos minuto quieres hablar: ");
+        minuto = Double.parseDouble(sc.nextLine());
+
+        System.out.print("Quieres la llamad en el nuche (si/no): ");
+        noche = sc.nextLine();
+
+        System.out.print("Quieres la llamad en domingo (si/no): ");
+        domingo = sc.nextLine();
+
+        if (minuto <= 3) {
+            System.out.println(minuto * 0.75);
+        } else {
+            
+        }
 
 
 
 
 
 
-        
+
+
+
+
+
+
     }
 }
+
+
+
+
+
+    
+        
+  
